@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gaoa1991
+- 👀 I’m interested in development and project management
+- 🌱 I’m currently learning GibHub fundamental for the purpose of project management
+- 💞️ I’m looking to collaborate on .NET Core projects, specially Blazor
+- 📫 You can reach me at gaoa1991@gmail.com
